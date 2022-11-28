@@ -173,7 +173,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
         'Incredible title',
         'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus reprehenderit voluptatem vel blanditiis, deserunt commodi quos asperiores nisi exercitationem similique, harum quam? Corrupti ipsam quasi velit quas placeat eveniet dicta!',
         '.banner',
-        '/img/mount.jpg'
+        './img/mount.jpg'
     )
     topBanner.renderBanner();
 
@@ -212,7 +212,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
     const form = new Form (
         ' You have a quastion?',
         'Click',
-        '/img/te-bg-4.png',
+        './img/te-bg-4.png',
         '.form'
     )
 
